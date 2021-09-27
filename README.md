@@ -12,8 +12,6 @@ In the raw dataset, each ride was tied to a specific city in which PyBer operate
 
 ### The Data
 
----
-
 ![ride data bubble chart](Analysis/Fig1.png)
 
 ---
