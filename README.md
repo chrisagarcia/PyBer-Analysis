@@ -30,6 +30,7 @@ In the raw dataset, each ride was tied to a specific city in which PyBer operate
         - the average rural or suburban driver sees a much larger share of the rider base in their city than the average urban driver
 3. Total Fare
     - Total fare by city is much more equal between the three types, but as a cumulative stat, it follows that urban cities would obviously dominate
+    
     ![% total fare](Analysis/Fig5.png)
     - I think this chart makes it abundantly clear that rural and suburban PyBer should not be discounted
 4. Average Fare per Ride
