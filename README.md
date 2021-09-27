@@ -21,26 +21,35 @@ In the raw dataset, each ride was tied to a specific city in which PyBer operate
 1. Total Rides
     - For any cumulative measure pertaining to these city categories the order will always be urban then suburban then rural
     - Here is a nice breakdown of the total rides per city type as a percent of the grand total
+    
     ![% total rides](Analysis/Fig6.png)
+    
     - Here it is obvious how much of Pyber's user base is located in urban areas
 2. Total Drivers
     - Total drivers also follows the cumulative data schema
+    
     ![% total drivers](Analysis/Fig7.png)
+   
     - However it is very interesting the difference between rides and drivers
         - the average rural or suburban driver sees a much larger share of the rider base in their city than the average urban driver
 3. Total Fare
     - Total fare by city is much more equal between the three types, but as a cumulative stat, it follows that urban cities would obviously dominate
     
     ![% total fare](Analysis/Fig5.png)
+    
     - I think this chart makes it abundantly clear that rural and suburban PyBer should not be discounted
 4. Average Fare per Ride
     - Unlike cumulative measures, these average measures will be skewed toward rural, inversing the cumulative schema
     - The trend of higher average fare can be explained by the larger distances people must travel in these communities
     - Though, as both the box chart and bubble chart above(Fig1) will show you, there is high variance among rural fares
+    
     ![avg fare/driver](Analysis/Fig3.png)
+    
 5. Total Fare by City Type
     - This graph shows the absolute fare sums by week of all three city types in a nice line chart
+    
     ![fare sums by week line chart](Analysis/Fig8.png)
+    
     - It shows urban cities domination of contribution to the company's bottom line
     - It also shows some interesting temporal trends including a winter decrease, and spring increase in total fares that seems consistant across city type
 
